@@ -111,7 +111,6 @@ footer {
 .byte-logo {
   width: 50px;    
   height: 50px;
-  animation: spin 12s linear infinite;
 }
 
 @keyframes spin {
